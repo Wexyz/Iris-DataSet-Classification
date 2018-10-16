@@ -1,5 +1,5 @@
 # Iris-DataSet-Classification
-Basic classifier code for the Iris data set using Python </br>
+Basic classification code for the Iris data set using Python and SciKit Learn </br>
 # Algorithms/Concepts included:
 Supervised Learning </br>
 K-Nearest Neighbor </br>
